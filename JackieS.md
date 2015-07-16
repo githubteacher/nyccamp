@@ -1,6 +1,6 @@
 # Jackie S
 I have lived in:
-* New York 
+* New York lived here for about 24 years
 * Boston
 * Chicago
 * Zaragoza
