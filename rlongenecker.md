@@ -1,4 +1,4 @@
 Places Where I've lived
-*stockholm
-*nyc
-*pittsburgh
+*stockholm [a]
+*nyc [b]
+*pittsburgh [c]
