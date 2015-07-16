@@ -1,6 +1,6 @@
 # Adrianna Merrill
 I have lived in:
 <ul>
-<li>Boston, MA</li>
-<li>Cape Cod, MA</li>
+<li>Boston, MA (22 years)</li>
+<li>Cape Cod, MA (1 year)</li>
 </ul>
