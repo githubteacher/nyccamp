@@ -1,0 +1,3 @@
+# Writer, Editor, Photographer...
+Would-be Coder. Oh, and:
+# Mom
