@@ -1,7 +1,7 @@
-# Ya
+# Ya  changed 2
 I've lived in:
 * NJ
-* NA
+* NC
 * MD
 * NY
 
