@@ -1,5 +1,5 @@
 # Dee Kras
 I have lived in:
-* Brooklyn
+* Brooklyn  (Prospect Heights)
 * Potomac
 * 
