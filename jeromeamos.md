@@ -4,5 +4,8 @@ I’m a Sr. Front End Web Dev and Instructor of web design/development living in
 
 I’m also an ex-member of the USAF and photographer. My some of my current personal passions are focused around creating good food, learning more about SASS, Grunt, Angularjs and Javascript in general and shooting/editing video which my last youtube video has over 15k in views - https://www.youtube.com/watch?v=wE0Gm0e_CrE.
 
+##type of food that I create:##
+http://savoryscrapbook.com
+
 ##Interests: ##
 Drupal, angular.js, Front-End, JavaScript, gulp, grunt, drush
