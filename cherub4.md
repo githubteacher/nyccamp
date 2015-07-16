@@ -1,5 +1,5 @@
 # Shannah Rae
 I love:
 * Horses
-* Tango
+* Tango (danced for 7 years)
 * Inner peace
