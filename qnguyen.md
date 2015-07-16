@@ -1,4 +1,5 @@
 # Quoc Nguyen
 I have lived in:
 * Philadelphia
-* Newark - 4 yrs
+* Newark
+* Princeton - current residence
