@@ -1,7 +1,6 @@
 # Hannah Yu
 I have lived in: 
-* New York
-* Chicago
-* Los Angeles
-* Ann Arbor
-* Seoul
+* New York (for 7 years; and my favorite city!)
+* Chicago (for 3 years)
+* Los Angeles (for 3 years)
+* Seoul (for 3 months)
