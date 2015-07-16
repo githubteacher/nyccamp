@@ -2,4 +2,4 @@
 I have lived in:
 # Chicago
 # San Francisco
-# New York
+# New York (10 years)
