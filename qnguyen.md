@@ -1,4 +1,4 @@
 # Quoc Nguyen
 I have lived in:
 * Philadelphia
-* Newark
+* Newark - 4 yrs
