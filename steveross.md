@@ -1,5 +1,5 @@
 # Steve Ross
 I have lived in:
-* San Antonio
-* New York
-* Houston
+* San Antonio (20 years)
+* New York (30 years)
+* Houston (3 years)
