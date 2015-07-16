@@ -1,5 +1,5 @@
 # Jim Fisk
 I have lived in:
-* Burlington
+* Burlington (1 year)
 * Amherst
 * Boston
